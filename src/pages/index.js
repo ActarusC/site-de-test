@@ -13,7 +13,8 @@ const IndexPage = () => (
     <p>Welcome to your new Gatsby site.</p>
     <p>Now go build something great.</p>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
-      <StaticImage src="../images/gatsby-astronaut.png" />
+      
+      <StaticImage src="../images/gatsby-astronaut.png" alt="Un peu de texte" width={300} />
     </div>
     <Link to="/doc">Voir la doc</Link>
   </Layout>
