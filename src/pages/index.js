@@ -14,7 +14,7 @@ const IndexPage = () => (
     <p>Now go build something great.</p>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       
-      <StaticImage src="../images/gatsby-astronaut.png" alt="Un peu de texte" width={300} />
+      <StaticImage src="../images/gatsby-astronaut2.png" alt="Un peu de texte" width={300} />
     </div>
     <Link to="/doc">Voir la doc</Link>
   </Layout>
