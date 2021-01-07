@@ -9,13 +9,6 @@ module.exports = {
     `gatsby-plugin-image`,
     `gatsby-transformer-sharp`,
     {
-      resolve: `gatsby-plugin-sharp`,
-      options: {
-        // Available options and their defaults:
-        failOnError: false,
-      },
-    },
-    {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `site-de-test`,
