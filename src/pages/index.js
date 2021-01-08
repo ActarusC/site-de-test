@@ -15,7 +15,7 @@ const IndexPage = () => (
     <p>Now go build something great.</p>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       
-      <img src={imagePrinc} />
+      <img src={imagePrinc} alt="des bâtons de hockey"/>
     </div>
     <Link to="/doc">Voir la doc</Link>
   </Layout>
