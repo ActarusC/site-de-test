@@ -3,7 +3,7 @@ import { Link } from "gatsby"
 
 import Layout from "../components/layout"
 
-import imagePrinc from "../images/gatsby-astronaut2.png"
+import imagePrinc from "../images/hockeysticks.png"
 
 import SEO from "../components/seo"
 
